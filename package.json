@@ -1,0 +1,25 @@
+{
+    "name": "CMFI-Maryland-Conferene-Website",
+    "version": "0.1.0",
+    "description": "External website for CMFI Maryland church annual conference",
+    "scripts": {
+        
+    },
+    "dependencies": {
+        "jquery": "3.1.1",
+        "bootstrap": "3.3.7",
+        "bootstrap-multiselect" : "0.9.13-1",
+        "toastr": "2.1.2"
+    },
+    "devDependencies": {
+        "del": "^2.2.0",
+        "glob": "^7.0.3",
+        "gulp": "^3.9.1",
+        "gulp-concat": "^2.6.0",
+        "gulp-install": "^0.6.0",
+        "gulp-less": "^3.1.0",
+        "gulp-shell": "^0.5.2",
+        "gulp-sourcemaps": "^1.6.0",
+        "gulp-uglify": "^1.5.4"
+    }
+}
